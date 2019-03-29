@@ -49,5 +49,13 @@ ul li::before{
     
 }
 .cmsms_row_outer_parent {
-    padding-bottom: 20px;
+    padding-top: 80px;
+}
+.post .cmsms_post_header{
+display: flex;
+align-items: center;
+padding-bottom: 40px;
+}
+.post .cmsms_post_header h1{
+    padding-left: 20px;
 }

@@ -48,7 +48,7 @@ ul li::before{
     
 }
 .cmsms_row_outer_parent {
-    padding: 40px 0px;
+    padding-top: 80px;
 }
 .post .cmsms_post_header{
 display: flex;

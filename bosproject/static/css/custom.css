@@ -48,7 +48,7 @@ ul li::before{
     
 }
 .cmsms_row_outer_parent {
-    padding-top: 80px;
+    padding-top: 40px;
 }
 .post .cmsms_post_header{
 display: flex;
@@ -61,3 +61,16 @@ padding-bottom: 40px;
 /*.blog.timeline .post{
     opacity: 1;
 }*/
+.header_mid .header_mid_inner .logo_wrap {
+    width: 40%;
+}
+.header_mid_inner{
+	margin: 0;
+}
+
+div.div-white{
+background-color: #FFFFFF;
+}
+div.div-gray{
+background-color: #D0D0D0;
+}

@@ -7,7 +7,7 @@ class SliderAdmin(admin.ModelAdmin):
 	list_display = ('id', 'name')
 
 class SlideAdmin(admin.ModelAdmin):
-	list_display = ('title', 'is_active', 'position', 'slider')
+	list_display = ('id', 'title', 'is_active', 'position', 'slider')
 
 	fieldsets = (
         ('Title', {
